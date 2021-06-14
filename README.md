@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome, Jinju Lee's GitHub 👋
+<img src="https://img.shields.io/github/followers/LEEJINJU-1214?style=social">
+
+![](https://img.shields.io/github/followers/LEEJINJU-1214?style=social)
 
 <!--
 **LEEJINJU-1214/LEEJINJU-1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
