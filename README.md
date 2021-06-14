@@ -1,6 +1,6 @@
 ### Welcome, Jinju Lee's GitHub 👋
 <img src="https://img.shields.io/github/followers/LEEJINJU-1214?style=social">
-![Jinju's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJINJU-1214&show_icons=true)
+![Jinju's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINJULEE_1214&show_icons=true)
 
 
 
