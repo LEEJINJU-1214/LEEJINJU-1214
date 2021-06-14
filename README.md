@@ -1,5 +1,5 @@
 
-![Jinju's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJINJU-1214&show_icons=true&theme=radical)
+![Jinju's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJINJU-1214&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJINJU-1214)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Welcome, Jinju Lee's GitHub 👋
