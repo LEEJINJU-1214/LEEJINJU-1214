@@ -1,5 +1,6 @@
 
 ### Welcome, Jinju Lee's GitHub 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJINJU-1214&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Jinju's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJINJU-1214&show_icons=true&theme=dracula)
