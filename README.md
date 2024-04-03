@@ -12,12 +12,12 @@
 <table>
 <tr>
 <td valign="top">
-<h4 align="center">✨  👩‍💻 My Langs 👩‍💻 ✨</h4>
+<h4 align="center">✨  👩‍💻 My Langs 👩‍💻 ✨</h5>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJINJU-1214&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<h4 align="center">✨  👩‍💻 My GitHub's stats 👩‍💻 ✨</h4>
+<h5 align="center">✨  👩‍💻 My GitHub's stats 👩‍💻 ✨</h4>
 <div align="center">
 
 ![Jinju's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJINJU-1214&show_icons=true&theme=dracula&count_private=true)
