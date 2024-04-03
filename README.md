@@ -12,7 +12,7 @@
 <table>
 <tr>
 <td valign="top">
-<h1 align="center">✨  👩‍💻 My Langs 👩‍💻 ✨</h1>
+<h4 align="center">✨  👩‍💻 My Langs 👩‍💻 ✨</h4>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJINJU-1214&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
