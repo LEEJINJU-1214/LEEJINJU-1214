@@ -20,7 +20,7 @@
 <h3 align="center">✨  👩‍💻 My GitHub's stats 👩‍💻 ✨</h3>
 <div align="center">
 
-![Jinju's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJINJU-1214&show_icons=true&theme=dracula)
+![Jinju's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJINJU-1214&show_icons=true&theme=dracula&count_private=true)
 </div>
 
 </td>
