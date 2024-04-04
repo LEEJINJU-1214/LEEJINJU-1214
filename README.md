@@ -12,12 +12,12 @@
 <table>
 <tr>
 <td valign="top">
-<h4 align="center">My Langs</h4>
+<h3 align="center">My Langs</h3>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJINJU-1214&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<h4 align="center">My GitHub's stats</h4>
+<h3 align="center">My stats</h3>
 <div align="center">
 
 ![Jinju's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJINJU-1214&show_icons=true&theme=dracula&count_private=true)
@@ -28,7 +28,7 @@
 
 
 
-<h4 align="center">✨ Tech Stack ✨</h4>
+<h3 align="center">✨ Tech Stack ✨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
