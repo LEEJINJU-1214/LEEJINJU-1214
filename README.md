@@ -1,13 +1,15 @@
-<div align="center">  
-
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcom!%20Jinju%20Lee's%20Github&fontSize=50&color=0:8871e5,100:b678c4&stroke=b678c4)
-</div>
-
-
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
+<div align="center">  
+<a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/LEEJINJU-1214"
+      width="700"
+      height="300"
+    />
+</a>
 
 <table>
 <tr>
