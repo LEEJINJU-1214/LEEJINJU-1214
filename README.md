@@ -54,14 +54,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D"/></a>&nbsp 
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/></a>&nbsp 
 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/OrangePi-FF7900?style=for-the-badge&&logoColor=white"/>
 </p>
 
 <br>
